@@ -1,6 +1,5 @@
-#SUGGESTION: PLEASE USE ABSOLUTE PATH
-export DARKNET=<PATH_TO_DARKNET>
-export PRJ_PATH=<PATH_TO_YOLOV3-DATALOADER>
+export DARKNET=/content/darknet
+export PRJ_PATH=/content/yolov3-dataloader-cloud
 
 cd $DARKNET
 ./darknet detector demo \
