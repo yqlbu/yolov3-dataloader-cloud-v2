@@ -25,6 +25,6 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
   
 ### Demo
 
-![](demo-screenshots/001.jpg)
-![](demo-screenshots/002.jpg)
-![](demo-screenshots/003.jpg)
+![](demo-screenshots/demo001.jpg)
+![](demo-screenshots/demo002.jpg)
+![](demo-screenshots/demo003.jpg)
