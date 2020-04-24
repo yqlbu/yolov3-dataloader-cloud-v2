@@ -12,10 +12,10 @@ You may find more info about Google Colab [here](https://medium.com/deep-learnin
 
 - Clone this repository to your local machine by typing the command below in your terminal \
     ```
-    $ git clone https://github.com/yqlbu/yolov3-dataloader/
+    $ git clone https://github.com/yqlbu/yolov3-dataloader-cloud-v2/
     ```
 - Login to Colab [here](https://colab.research.google.com/)
-- Upload "yolov3-dataloader.ipynb" to Colab. 
+- Upload "yolov3-dataloader-cloud-v2.ipynb" to Colab. 
   *(You may find the open tab @ File >> Open Notebook)*
 - Initiate the VM on Colab, and select the "GPU" one !!! \
   *(You may find the option @ Runtime >> Change runtime type >> Hardware Acclerator >> GPU)*
